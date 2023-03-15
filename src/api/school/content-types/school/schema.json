@@ -41,6 +41,7 @@
     "topic2": {
       "type": "string"
     },
+    
     "group": {
       "type": "enumeration",
       "enum": [
