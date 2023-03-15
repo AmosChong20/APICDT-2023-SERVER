@@ -29,9 +29,6 @@
     "leaderNameCN": {
       "type": "string"
     },
-    "leaderPhone": {
-      "type": "biginteger"
-    },
     "schoolNameCN": {
       "type": "string"
     },
@@ -41,7 +38,6 @@
     "topic2": {
       "type": "string"
     },
-    
     "group": {
       "type": "enumeration",
       "enum": [
@@ -60,6 +56,9 @@
     },
     "accountEmail": {
       "type": "email"
+    },
+    "leaderPhone": {
+      "type": "string"
     }
   }
 }
